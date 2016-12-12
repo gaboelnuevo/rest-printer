@@ -1,0 +1,5 @@
+{
+  "security": true,
+  "secret": "SECRET_TOKEN",
+  "port": 3000
+}
